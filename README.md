@@ -20,7 +20,7 @@
 
 ## The Short Version
 
-> I'm a **first-year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **3 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
+> I'm a **Third-year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **3 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
 
 ```python
 class Vidisha:
