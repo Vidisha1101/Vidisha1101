@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080412,30:0f0820,60:1e1035,100:080412&height=220&section=header&text=Vidisha%20Vaidya&fontSize=68&fontColor=f0ebff&fontAlignY=38&desc=CS%20Undergraduate%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;3+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University%2C+2024%E2%80%932028;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;3+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University+%7C+3rd+Year;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,13 +20,14 @@
 
 ## The Short Version
 
-> I'm a **Third-year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **3 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
+> I'm a **3rd year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **3 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
 
 ```python
 class Vidisha:
     name      = "Vidisha Vaidya"
     degree    = "B.Tech CSE — JIET University (2024–2028)"
-    cgpa      = "7.78+"    # Sem IV SGPA: 8.20 — trending up 📈
+    year      = "3rd Year | 5th Semester"
+    cgpa      = "7.78+"                           # Sem IV SGPA: 8.20 — trending up 📈
     deployed  = 3                                 # live Streamlit apps in year 1
     stack     = ["Python","SQL","Pandas","Plotly","Streamlit","Power BI"]
     open_to   = ["Data Analyst","Python Dev","Internship","Freelance"]
@@ -127,11 +128,24 @@ class Vidisha:
 
 ---
 
+## 📈 By The Numbers
+
+<div align="center">
+
+| 🚀 Live Apps | 📚 Semesters Done | 📊 Sem IV SGPA | 🏅 Certifications |
+|:---:|:---:|:---:|:---:|
+| **3** | **4 of 8** | **8.20** | **7** |
+
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 | | Degree / School | Institution | Period | Score |
 |---|---|---|---|---|
-| 🎓 | B.Tech — Computer Science & Engineering | JIET University, Jodhpur | 2024–2028 | CGPA: **7.78+** |
+| 🎓 | B.Tech — Computer Science & Engineering | JIET University, Jodhpur | 2024–2028 | CGPA: **7.78+** &nbsp;•&nbsp; Sem IV SGPA: **8.20** |
 | 📘 | Higher Secondary (HSC) | GS Jangid Memorial | 2023–2024 | — |
 | 📗 | Secondary (SSC) | Delhi Public School | 2021–2022 | — |
 
@@ -142,24 +156,8 @@ class Vidisha:
 | 🐍 Scientific Computing with Python | freeCodeCamp |
 | 📊 Get Started with Data Science in Microsoft Fabric | Microsoft Learn |
 | 🤖 Using GitHub Copilot with Python | Microsoft Learn |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Vidisha1101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=080412&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3" />
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidisha1101&layout=compact&theme=tokyonight&hide_border=true&bg_color=080412&title_color=a78bfa&text_color=e2d9f3" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vidisha1101&theme=tokyonight&hide_border=true&background=080412&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2d9f3&dates=a78bfa&currStreakNum=e2d9f3&sideNums=e2d9f3)](https://git.io/streak-stats)
-
-</div>
+| ⚙️ C Programming Basics | Simplilearn |
+| 💻 Project-Based Python Programming | JIET University |
 
 ---
 
