@@ -1,91 +1,153 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vidisha%20Vaidya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20the%20Making%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Vidisha%20Vaidya&fontSize=65&fontColor=e0d7ff&fontAlignY=38&desc=CS%20Undergraduate%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=19&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+%2F+IT+Student+%7C+Data+Enthusiast;Python+%7C+SQL+%7C+Power+BI;I+build+things+instead+of+just+watching+tutorials;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=AI-Powered+Dashboards+%7C+Python+%7C+SQL+%7C+Power+BI;Sentiment+Analysis+%7C+ML+%7C+Data+Visualization;Building+real+apps+on+Streamlit+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+Opportunities;JIET+University+%7C+B.Tech+CSE+2024%E2%80%932028" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidisha%20Vaidya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidisha-vaidya-755431311)
-[![GitHub followers](https://img.shields.io/github/followers/VidishaVaidya?style=for-the-badge&logo=github&color=302b63)](https://github.com/VidishaVaidya)
-[![Profile Views](https://komarev.com/ghpvc/?username=VidishaVaidya&style=for-the-badge&color=A78BFA)](https://github.com/VidishaVaidya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidisha%20Vaidya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidisha-vaidya-755431311)
+[![GitHub](https://img.shields.io/badge/GitHub-Vidisha1101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vidisha1101)
+[![Email](https://img.shields.io/badge/Email-vidishavaidya11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidishavaidya11@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vidisha1101&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Vidisha1101)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
 ```python
-vidisha = {
-    "name"       : "Vidisha Vaidya",
-    "role"       : "CS / IT Student → Aspiring Data Analyst",
-    "location"   : "India 🇮🇳",
-    "philosophy" : "Build first. Learn by doing. Break things. Fix them.",
-    "focus"      : ["Data Analysis", "Visualization", "Automation", "AI Tools"],
-    "currently"  : "Turning real-world problems into data-driven solutions",
-    "open_to"    : ["Internships", "Freelance", "Open-Source Collaboration"]
-}
+class Vidisha:
+    name        = "Vidisha Vaidya"
+    degree      = "B.Tech CSE — JIET University, Jodhpur (2024–2028)"
+    cgpa        = 7.78
+    location    = "Jodhpur, Rajasthan, India 🇮🇳"
+    email       = "vidishavaidya11@gmail.com"
+    phone       = "+91-9484835000"
+    linkedin    = "linkedin.com/in/vidisha-vaidya-755431311"
+    github      = "github.com/Vidisha1101"
+    summary     = """CS undergraduate with hands-on experience in Python,
+                  data analysis, NLP, and building interactive dashboards.
+                  Quick learner. Strong problem-solver. Builder at heart."""
+    open_to     = ["Data Analyst Roles", "Python Developer", "Internships", "Freelance"]
+    superpower  = "I ask *why* — not just *how*"
 ```
 
-> 💡 *I prefer building practical projects over watching tutorials. I care about how systems work internally — not just memorizing steps.*
+---
+
+## 🚀 Live Projects
+
+> 🟢 *All projects are live and deployed — click to explore!*
+
+### 📊 [InsightPilot](https://insightpilot-dashboard.streamlit.app/) — AI-Powered Data Analytics Dashboard
+[![Live App](https://img.shields.io/badge/🟢%20Live%20App-insightpilot--dashboard.streamlit.app-28a745?style=flat-square)](https://insightpilot-dashboard.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vidisha1101%2Finsightpilot--dashboard-181717?style=flat-square&logo=github)](https://github.com/Vidisha1101/insightpilot-dashboard)
+
+- Built an interactive analytics dashboard using **Python, Streamlit, Pandas, Plotly, Scikit-learn & SciPy**
+- CSV/Excel upload, automated data cleaning, missing value handling, and data quality scoring
+- Statistical modules: **t-test, chi-square, ANOVA, correlation analysis** with plain-English explanations
+- ML features: **KMeans clustering, PCA visualization, outlier detection, and time-series analysis**
+
+**Stack:** `Python` `Streamlit` `Pandas` `Plotly` `Scikit-learn` `SciPy`
 
 ---
 
-## 🚀 What I'm Working On
+### 💬 [ReviewPulse AI](https://reviewpulseai-83pgvna3ipf8ozowxnbhcd.streamlit.app/) — AI-Powered Review Analysis Tool
+[![Live App](https://img.shields.io/badge/🟢%20Live%20App-reviewpulseai.streamlit.app-28a745?style=flat-square)](https://reviewpulseai-83pgvna3ipf8ozowxnbhcd.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vidisha1101%2FReviewPulse__AI-181717?style=flat-square&logo=github)](https://github.com/Vidisha1101/ReviewPulse_AI)
 
-- 📊 Building **real-world dashboards** with Power BI & Python  
-- 🤖 Exploring **AI-assisted development** and automation workflows  
-- 🧪 Applying **machine learning basics** to practical datasets  
-- 🌐 Improving **GitHub project presentation** and storytelling  
-- 💼 Preparing for **freelancing & remote data roles**
+- Built **sentiment analysis & complaint detection pipelines** to find satisfaction trends and common issues
+- Complaint grouping, AI-generated review summaries, and visual analytics with KPI cards & trend graphs
+- Clean dashboard with filters, search, and live review analytics
+
+**Stack:** `Python` `Pandas` `Plotly` `NLP` `Streamlit`
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🏋️ [PulseFit](https://pulsefit-btzlopzpc6t6vz7xfskuoi.streamlit.app/) — Fitness Tracking & Data Analysis
+[![Live App](https://img.shields.io/badge/🟢%20Live%20App-pulsefit.streamlit.app-28a745?style=flat-square)](https://pulsefit-btzlopzpc6t6vz7xfskuoi.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vidisha1101%2FPulseFit-181717?style=flat-square&logo=github)](https://github.com/Vidisha1101/PulseFit)
+
+- Fitness tracking & analysis tool using **Antigravity platform**
+- Interactive dashboard for steps, sleep, water intake, and workouts
+- Trend tracking, **readiness score calculation**, and health performance summaries
+- Charts, correlation analysis, and monthly performance reports
+
+**Stack:** `Python` `Streamlit` `Antigravity` `Pandas` `Plotly`
+
+---
+
+### 🛍️ [Flora](https://github.com/Vidisha1101/florawebsite) — Clothing E-Commerce Website
+[![GitHub](https://img.shields.io/badge/GitHub-Vidisha1101%2Fflorawebsite-181717?style=flat-square&logo=github)](https://github.com/Vidisha1101/florawebsite)
+
+- Responsive multi-page e-commerce website using **HTML & CSS**
+- Product listings, pricing sections, and intuitive navigation
+- Focused on clean layout and consistent design for a better user experience
+
+**Stack:** `HTML` `CSS`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data & Analytics
+### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Visualization & BI
+### 📈 Data Visualization
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Dev Tools
+### 🤖 Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Education
 
-| 🔍 Project | 📌 Description | 🛠️ Tech |
+| Degree | Institution | Period | Score |
+|---|---|---|---|
+| 🎓 B.Tech — Computer Science & Engineering | JIET University, Jodhpur | 2024 – 2028 | CGPA: **7.78** |
+| 📘 Higher Secondary (HSC) | GS Jangid Memorial | 2023 – 2024 | — |
+| 📗 Secondary (SSC) | Delhi Public School | 2021 – 2022 | — |
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Year |
 |---|---|---|
-| 🕵️ **Fake News Detection** | ML model to classify news articles as real or fake | Python, Scikit-Learn, NLP |
-| 🛡️ **Incident Safety Dashboard** | Visual dashboard tracking safety incidents and trends | Power BI, SQL |
-| 📈 **Data Visualization Dashboards** | Interactive charts & dashboards for real datasets | Python, Matplotlib, Pandas |
-| 📐 **Statistical Analysis Concepts** | Hands-on implementations of statistical methods | Python, NumPy, SciPy |
-| 🧪 **Hypothesis Testing Ideas** | Testing statistical hypotheses on sample datasets | Python, Statistics |
-
-> 🔗 *More projects pinned below — each one is built, not just described.*
+| 🐍 Scientific Computing with Python | freeCodeCamp | 2025 |
+| ⚙️ C Programming Basics | Simplilearn | 2025 |
+| 💻 Project-Based Python Programming | JIET University | 2025 |
+| 🤖 Using GitHub Copilot with Python | Microsoft Learn | 2025 |
+| 📊 Get Started with Data Science in Microsoft Fabric | Microsoft Learn | 2025 |
+| 🧠 Emotional Intelligence | NPTEL | 2025 |
+| 💬 Employment Communication: A Lab Based Course | NPTEL | 2025 |
 
 ---
 
@@ -93,15 +155,15 @@ vidisha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidishaVaidya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidisha1101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidishaVaidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidisha1101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0d7ff" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VidishaVaidya&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vidisha1101&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e0d7ff&dates=a78bfa&currStreakNum=e0d7ff&sideNums=e0d7ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -110,59 +172,59 @@ vidisha = {
 ## 🎯 2025 Goals
 
 ```
-✅ Build portfolio projects that solve real problems
-⬜ Land data analysis internship / freelance project
-⬜ Contribute to open-source data/ML repositories
-⬜ Master advanced analytics & dashboard design
-⬜ Publish data insights publicly (articles / notebooks)
-⬜ Combine analytics + AI tools into useful products
+[✅] Build and deploy live portfolio projects
+[✅] Ship 3+ real apps on Streamlit
+[⬜] Land a data analysis internship / freelance project
+[⬜] Contribute to open-source data / ML repositories
+[⬜] Master advanced analytics & ML pipelines
+[⬜] Combine analytics + AI tools into useful products
 ```
 
 ---
 
-## 💬 My Approach
+## 📚 Currently Learning
+
+<div align="center">
+
+![Advanced ML](https://img.shields.io/badge/Advanced%20Machine%20Learning-7c3aed?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP%20%26%20Text%20Analytics-6d28d9?style=flat-square)
+![Dashboard UX](https://img.shields.io/badge/Better%20UI%2FUX%20for%20Dashboards-5b21b6?style=flat-square)
+![Data Science Fabric](https://img.shields.io/badge/Microsoft%20Fabric%20%2F%20Data%20Science-4c1d95?style=flat-square)
+![Freelancing](https://img.shields.io/badge/Freelancing%20%26%20Remote%20Work-3b0764?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-2e1065?style=flat-square)
+
+</div>
+
+---
+
+## 🌟 What Makes Me Different
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏗️ I Build, Not Just Watch
-Every concept I learn gets applied in a project. Tutorials are starting points, not endpoints.
-
-</td>
-<td width="50%">
-
-### 🔍 I Ask *Why*, Not Just *How*
-I want to understand systems from the inside — not follow steps blindly.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🔄 Continuous Improvement
-I experiment, fail, fix, and improve. Progress > perfection.
-
-</td>
-<td>
-
-### 🤝 Analytics × AI
-I'm excited about combining data analysis, visualization, and AI automation into useful real-world tools.
-
-</td>
+<td align="center" width="25%">🏗️<br/><b>Builder Mindset</b><br/><sub>I build and deploy real apps — not just scripts. Live Streamlit dashboards anyone can use.</sub></td>
+<td align="center" width="25%">🔍<br/><b>Ask Why, Not How</b><br/><sub>I dig into systems internals. Understanding over memorization — always.</sub></td>
+<td align="center" width="25%">🔄<br/><b>Experiment First</b><br/><sub>I experiment, fail, fix, and iterate. Continuous improvement over perfection.</sub></td>
+<td align="center" width="25%">🤖<br/><b>Analytics × AI</b><br/><sub>Combining data analysis, visualization, NLP, and AI automation into practical tools.</sub></td>
 </tr>
 </table>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-If you're working on something in **data analytics, dashboards, ML, or automation** — let's talk.
+*Actively looking for **Data Analyst / Python Developer** internship & freelance opportunities.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidisha-vaidya-755431311)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidishaVaidya)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidisha-vaidya-755431311)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidishavaidya11@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vidisha1101)
+
+<br/>
+
+*Open to open-source collaborations, data projects, and connecting with fellow builders.* 🛠️
 
 </div>
 
@@ -170,7 +232,7 @@ If you're working on something in **data analytics, dashboards, ML, or automatio
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=130&section=footer&animation=fadeIn" />
 
 *"Data is not just numbers — it's the story waiting to be told."*
 
