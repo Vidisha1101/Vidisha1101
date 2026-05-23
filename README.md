@@ -26,7 +26,7 @@
 class Vidisha:
     name      = "Vidisha Vaidya"
     degree    = "B.Tech CSE — JIET University (2024–2028)"
-    cgpa      = 7.78                              # and climbing 📈
+    cgpa      = "7.78+"    # Sem IV SGPA: 8.20 — trending up 📈
     deployed  = 3                                 # live Streamlit apps in year 1
     stack     = ["Python","SQL","Pandas","Plotly","Streamlit","Power BI"]
     open_to   = ["Data Analyst","Python Dev","Internship","Freelance"]
@@ -131,7 +131,7 @@ class Vidisha:
 
 | | Degree / School | Institution | Period | Score |
 |---|---|---|---|---|
-| 🎓 | B.Tech — Computer Science & Engineering | JIET University, Jodhpur | 2024–2028 | CGPA: **7.78** |
+| 🎓 | B.Tech — Computer Science & Engineering | JIET University, Jodhpur | 2024–2028 | CGPA: **7.78+** |
 | 📘 | Higher Secondary (HSC) | GS Jangid Memorial | 2023–2024 | — |
 | 📗 | Secondary (SSC) | Delhi Public School | 2021–2022 | — |
 
