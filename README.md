@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080412,30:0f0820,60:1e1035,100:080412&height=220&section=header&text=Vidisha%20Vaidya&fontSize=68&fontColor=f0ebff&fontAlignY=38&desc=CS%20Undergraduate%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;4+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University+%7C+3rd+Year;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;4+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University+%7C+3rd+Year;GSSoC+2025+Open+Source+Contributor+%7C+Open+to+Internships" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,6 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-vidishavaidya11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidishavaidya11@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Jodhpur%2C%20India-7c3aed?style=for-the-badge)](https://github.com/Vidisha1101)
 [![Profile Views](https://komarev.com/ghpvc/?username=Vidisha1101&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Vidisha1101)
+[![GSSoC](https://img.shields.io/badge/GSSoC%202025-Selected%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.org/apply)
 
 </div>
 
@@ -176,13 +177,21 @@ class Vidisha:
 
 ---
 
+## 🌐 Open Source
+
+[![GSSoC](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code%202025-Selected%20Contributor-orange?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.org/apply)
+
+Selected as a **contributor for GirlScript Summer of Code (GSSoC) 2025** — one of India's largest open source programs. Actively contributing to real-world open source projects, collaborating with maintainers, and building in public.
+
+---
+
 ## 🎯 Goals for 2025
 
 ```
 [✅] Build and deploy live portfolio projects
 [✅] Ship 4+ real apps on Streamlit — InsightPilot, ReviewPulse AI, PulseFit, DieselDeck
 [⬜] Land a Data Analyst internship or freelance project
-[⬜] Contribute to open-source data / ML repositories
+[✅] Selected for GSSoC 2025 — contributing to open-source projects
 [⬜] Master advanced analytics & ML pipelines
 [⬜] Build AI + analytics tools people actually use
 ```
