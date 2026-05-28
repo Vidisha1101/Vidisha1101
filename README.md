@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080412,30:0f0820,60:1e1035,100:080412&height=220&section=header&text=Vidisha%20Vaidya&fontSize=68&fontColor=f0ebff&fontAlignY=38&desc=CS%20Undergraduate%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;3+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University+%7C+3rd+Year;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas+%C2%B7+Streamlit;4+live+deployed+apps+%E2%80%94+and+counting+%F0%9F%9A%80;AI-powered+dashboards+%26+NLP+tools;B.Tech+CSE+%40+JIET+University+%7C+3rd+Year;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,7 @@
 
 ## The Short Version
 
-> I'm a **3rd year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **3 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
+> I'm a **3rd year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **4 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, a fitness tracker, and a fleet intelligence dashboard for Indian truck owners. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
 
 ```python
 class Vidisha:
@@ -28,7 +28,7 @@ class Vidisha:
     degree    = "B.Tech CSE — JIET University (2024–2028)"
     year      = "3rd Year | 5th Semester"
     cgpa      = "7.78+"                           # Sem IV SGPA: 8.20 — trending up 📈
-    deployed  = 3                                 # live Streamlit apps in year 1
+    deployed  = 4                                 # live Streamlit apps in year 1
     stack     = ["Python","SQL","Pandas","Plotly","Streamlit","Power BI"]
     open_to   = ["Data Analyst","Python Dev","Internship","Freelance"]
     belief    = "Build real things. Ask why. Improve always."
@@ -76,6 +76,22 @@ class Vidisha:
 [![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2FPulseFit-1a0f30?style=flat-square)](https://github.com/Vidisha1101/PulseFit)
 
 `Python` `Streamlit` `Antigravity` `Pandas` `Plotly`
+
+---
+
+### 🚛 [DieselDeck](https://gerryhpmd8gnoobk3lfzds.streamlit.app/) — Fleet Intelligence Dashboard for Indian Truck Owners
+> *Fleet management built for the road, not the boardroom. Upload a trip sheet and instantly see every truck, every cost, every rupee — no Excel needed.*
+
+[![Live App](https://img.shields.io/badge/🟢%20Live%20App-DieselDeck%20Dashboard-065f46?style=flat-square&labelColor=052e16)](https://gerryhpmd8gnoobk3lfzds.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2FDieselDeck-1a0f30?style=flat-square)](https://github.com/Vidisha1101/-DieselDeck)
+
+- Live truck status board with per-KM cost breakdown and route progress per truck
+- Fuel anomaly detection with ₹ loss estimate — spots theft automatically
+- Driver leaderboard scored on efficiency & cost control
+- Auto-generated daily action list + one-click WhatsApp summary for Monday reports
+- Add/edit trips with live profit/loss preview before saving
+
+`Python` `Streamlit` `Pandas` `NumPy` `Plotly`
 
 ---
 
@@ -134,8 +150,7 @@ class Vidisha:
 
 | 🚀 Live Apps | 📚 Semesters Done | 📊 Sem IV SGPA | 🏅 Certifications |
 |:---:|:---:|:---:|:---:|
-| **3** | **4 of 8** | **8.20** | **7** |
-
+| **4** | **4 of 8** | **8.20** | **7** |
 
 </div>
 
@@ -165,7 +180,7 @@ class Vidisha:
 
 ```
 [✅] Build and deploy live portfolio projects
-[✅] Ship 3+ real apps on Streamlit
+[✅] Ship 4+ real apps on Streamlit — InsightPilot, ReviewPulse AI, PulseFit, DieselDeck
 [⬜] Land a Data Analyst internship or freelance project
 [⬜] Contribute to open-source data / ML repositories
 [⬜] Master advanced analytics & ML pipelines
