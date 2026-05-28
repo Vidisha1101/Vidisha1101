@@ -21,7 +21,7 @@
 
 ## The Short Version
 
-> I'm a **3rd year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **4 live Streamlit apps** — an AI analytics dashboard, a sentiment analysis tool, a fitness tracker, and a fleet intelligence dashboard for Indian truck owners. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
+> I'm a **3rd year CS student at JIET University** who believes the best way to learn is to build something real and deploy it. While most students are still watching tutorials, I've already shipped **4 live Streamlit apps** — a fleet intelligence dashboard for Indian truck owners, an AI analytics dashboard, a sentiment analysis tool, and a fitness tracker. I care deeply about **how things work internally**, not just following steps. My goal: become a data analyst who turns messy data into clear decisions and builds AI-powered tools people actually use.
 
 ```python
 class Vidisha:
@@ -43,8 +43,24 @@ class Vidisha:
 
 ---
 
-### ⭐ [InsightPilot](https://insightpilot-dashboard.streamlit.app/) — AI-Powered Analytics Dashboard
-> *My most ambitious project. Upload any dataset and instantly get automated cleaning, statistical analysis, ML clustering, and plain-English explanations — all in one dashboard.*
+### ⭐ [DieselDeck](https://gerryhpmd8gnoobk3lfzds.streamlit.app/) — Fleet Intelligence Dashboard for Indian Truck Owners
+> *Fleet management built for the road, not the boardroom. Upload a trip sheet and instantly see every truck, every cost, every rupee — no Excel needed.*
+
+[![Live App](https://img.shields.io/badge/🟢%20Live%20App-DieselDeck%20Dashboard-065f46?style=flat-square&labelColor=052e16)](https://gerryhpmd8gnoobk3lfzds.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2FDieselDeck-1a0f30?style=flat-square)](https://github.com/Vidisha1101/-DieselDeck)
+
+- Live truck status board with per-KM cost breakdown and route progress per truck
+- Fuel anomaly detection with ₹ loss estimate — spots theft automatically
+- Driver leaderboard scored on efficiency & cost control
+- Auto-generated daily action list + one-click WhatsApp summary for Monday reports
+- Add/edit trips with live profit/loss preview before saving
+
+`Python` `Streamlit` `Pandas` `NumPy` `Plotly`
+
+---
+
+### 📊 [InsightPilot](https://insightpilot-dashboard.streamlit.app/) — AI-Powered Analytics Dashboard
+> *Upload any dataset and instantly get automated cleaning, statistical analysis, ML clustering, and plain-English explanations — all in one dashboard.*
 
 [![Live App](https://img.shields.io/badge/🟢%20Live%20App-insightpilot--dashboard.streamlit.app-065f46?style=flat-square&labelColor=052e16)](https://insightpilot-dashboard.streamlit.app/)
 [![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2Finsightpilot--dashboard-1a0f30?style=flat-square)](https://github.com/Vidisha1101/insightpilot-dashboard)
@@ -77,22 +93,6 @@ class Vidisha:
 [![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2FPulseFit-1a0f30?style=flat-square)](https://github.com/Vidisha1101/PulseFit)
 
 `Python` `Streamlit` `Antigravity` `Pandas` `Plotly`
-
----
-
-### 🚛 [DieselDeck](https://gerryhpmd8gnoobk3lfzds.streamlit.app/) — Fleet Intelligence Dashboard for Indian Truck Owners
-> *Fleet management built for the road, not the boardroom. Upload a trip sheet and instantly see every truck, every cost, every rupee — no Excel needed.*
-
-[![Live App](https://img.shields.io/badge/🟢%20Live%20App-DieselDeck%20Dashboard-065f46?style=flat-square&labelColor=052e16)](https://gerryhpmd8gnoobk3lfzds.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/🐙%20Source%20Code-Vidisha1101%2FDieselDeck-1a0f30?style=flat-square)](https://github.com/Vidisha1101/-DieselDeck)
-
-- Live truck status board with per-KM cost breakdown and route progress per truck
-- Fuel anomaly detection with ₹ loss estimate — spots theft automatically
-- Driver leaderboard scored on efficiency & cost control
-- Auto-generated daily action list + one-click WhatsApp summary for Monday reports
-- Add/edit trips with live profit/loss preview before saving
-
-`Python` `Streamlit` `Pandas` `NumPy` `Plotly`
 
 ---
 
@@ -189,7 +189,7 @@ Selected as a **contributor for GirlScript Summer of Code (GSSoC) 2025** — one
 
 ```
 [✅] Build and deploy live portfolio projects
-[✅] Ship 4+ real apps on Streamlit — InsightPilot, ReviewPulse AI, PulseFit, DieselDeck
+[✅] Ship 4+ real apps on Streamlit — DieselDeck, InsightPilot, ReviewPulse AI, PulseFit
 [⬜] Land a Data Analyst internship or freelance project
 [✅] Selected for GSSoC 2025 — contributing to open-source projects
 [⬜] Master advanced analytics & ML pipelines
